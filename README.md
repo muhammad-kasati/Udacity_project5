@@ -3,7 +3,7 @@
  <img width=700px src="./ProjPic.png.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">test-webpack</h3>
+<h3 align="center">Travel App</h3>
 
 <div align="center">
 
