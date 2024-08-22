@@ -15,7 +15,7 @@
 </div>
 
 ---
-
+**Node.js Version**: Ensure you have Node.js version 20.10.0 installed. You can check your Node.js version by running the command `node -v` in your terminal. If your version differs, you may need to switch to the correct version or adjust the project dependencies accordingly.
 <p align="center"> The Udacity Travel App project is a web development project that involves creating a travel application for users to explore and plan their trips. It aims to provide users with a seamless and interactive experience by integrating various features and functionalities.
     <br> 
 </p>
